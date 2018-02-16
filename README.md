@@ -1,6 +1,8 @@
 # Manage-TrustedPublisher
 Simple powershell module to manage code signing certificate in trusted publisher container on Windows computers and servers
 
+(c) 2018 lucas-cueff.com Distributed under Artistic Licence 2.0 (https://opensource.org/licenses/artistic-license-2.0).
+
 ## install Manage-TrustedPublisher from PowerShell Gallery repository
 You can easily install it from powershell gallery repository
 https://www.powershellgallery.com/packages/Manage-TrustedPublisher/
